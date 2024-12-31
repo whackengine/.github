@@ -1,4 +1,4 @@
-<img alt="Logo" src="https://github.com/user-attachments/assets/e5386869-9acb-4023-a69d-ffb9926b739d">
+<img alt="Logo" src="https://github.com/user-attachments/assets/ce1dc624-ee19-482e-bf21-cd36ba929971">
 
 The Whack engine implements its own ActionScript 3 platform for expressing client side and server side applications.
 
