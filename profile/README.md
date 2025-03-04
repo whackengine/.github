@@ -1,1 +1,1 @@
-Whack engine is currently closed source and is in development. Inquiries e-mail: hydroperfox **at** gmail **dot** com
+![image](https://github.com/user-attachments/assets/b1f26450-4e67-49af-b079-37b5c170d31a)
